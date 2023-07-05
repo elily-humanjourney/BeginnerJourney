@@ -1,0 +1,276 @@
+body {
+    background-color: black;
+}
+
+
+.webpage {
+    margin: auto;
+    max-width: 950px;
+    background-color: white;
+}
+
+
+
+
+.topnav {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    list-style: none;
+    gap: 1rem;
+    border: 2px black solid;
+}
+
+.topnav a {
+    color: white;
+}
+.topnav {
+    background: black;
+}
+
+span {
+    color: black;
+    float: left;
+}
+
+
+
+.politicians  {
+    flex-wrap: wrap;
+    float: left;
+    margin-right: 1%;
+    position: relative;
+    text-align: left;
+    font-family: Arial;
+}
+
+
+.firstimage {
+    height: 250px;
+    width: 430px;
+}
+
+
+.maintext {
+    position: absolute;
+    top: 55%;
+    color: white;
+    font-size: large;
+}
+
+.secondarytext {
+    color: white;
+    position: absolute;
+    top: 70%;
+    font-size: small;
+}
+
+.middleeast {
+    position: absolute;
+    top: 92%;
+    left: 0%;
+    font-size: x-small;
+}
+
+
+.middlesection {
+    justify-content: right;
+    
+}
+
+
+.flags {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+
+
+   
+.nationflags {
+   width: 213px;
+   padding-bottom: 2%;
+}
+
+.Americans {
+    position: absolute;
+    top: 30%;
+    font-size: x-small;
+    color: white;
+}
+
+.Canada {
+    position: absolute;
+    left: 0%;
+    font-size: x-small;
+    bottom: 53%;
+    color: white;
+}
+
+.productivity {
+    width: 213px;
+    padding-bottom: 2%;
+}
+
+
+.online {
+    position: absolute;
+    top: 30%;
+    left: 59%;
+    font-size: x-small;
+    text-align: left;
+    color: white;
+}
+
+.worklife {
+    position: absolute;
+    top: 42%;
+    left: 58%;
+    font-size: x-small;
+}
+
+.vaccination {
+    width: 213px;
+   }
+
+
+.vaccinate {
+    position: absolute;
+    top: 80%;
+    font-size: x-small;
+    color: white;
+}
+
+
+.health {
+    position: absolute;
+    top: 95%;
+    font-size: x-small;
+}
+
+
+
+.musician {
+   width: 213px;
+}
+
+
+.singer {
+    position: absolute;
+    top: 80%;
+    right: 0%;
+    font-size: small;
+    color: white;
+}
+
+
+
+.culture {
+    position: absolute;
+    top: 93%;
+    left: 59%;
+    font-size: x-small;
+}
+
+
+
+h2 {
+    color: black;
+}
+
+
+
+
+.flex {
+     display: flex;
+    justify-content: center;
+    
+}
+
+
+.Election {
+    padding: 10px;
+}
+
+.image1 {
+    width: 300px;
+    height: 180px;
+}
+
+.BidenHarris {
+    font-size: medium;
+    margin-top: 0%;
+}
+
+.Joebiden {
+    font-size: small;
+    margin-top: -6%;
+}
+
+.year2020 {
+    font-size: x-small;
+}
+
+
+
+.Womensright {
+    padding: 10px;
+    
+}
+
+.image2 {
+    width: 300px;
+    height: 180px;
+
+}
+
+
+
+.Women {
+    font-size: medium;
+    margin-top: 0%
+}
+
+
+
+.PoliceBrutality {
+    font-size: small;
+     margin-top: -6%;
+}
+
+.EUROPE {
+    font-size: x-small;
+}
+
+
+
+.Trumpera {
+    padding: 10px;
+}
+
+.image3 {
+    width: 300px;
+    height: 180px;
+}
+
+
+
+.Trump {
+    font-size: medium;
+    margin-top: 0%;
+    }
+
+
+
+
+.Washinghair {
+    font-size: small; 
+     margin-top: -6%;
+}
+
+.USA {
+    font-size: x-small;
+}
